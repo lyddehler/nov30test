@@ -12,13 +12,13 @@ p {
   font-size: 20px;
 }
 
-.container {
+container {
   display: flex;
   flex-direction: column;
   background-color: DodgerBlue;
 }
 
-.container div {
+container div {
   background-color: #f1f1f1;
   width: 100px;
   margin: 10px;
